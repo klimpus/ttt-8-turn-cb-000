@@ -25,6 +25,7 @@ end
 
 def turn(board)
   puts "Please enter 1-9:"
+<<<<<<< HEAD
   user_input = gets.strip
   index = input_to_index(user_input)
   
@@ -36,4 +37,6 @@ def turn(board)
   index = input_to_index(user_input)
   end
 
+=======
+>>>>>>> 638e96989320c5dfdd421e5787ac853abdcbc3a6
 end
